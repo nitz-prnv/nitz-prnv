@@ -4,8 +4,8 @@ Hi 👋 My name is Nithish Prannav
 Web Developer
 -------------
 
-An Explorer 😉 
-Learn to Do 🔁 Do to Learn 
+An Explorer 😉 <br/>
+Learn to Do 🔁 Do to Learn  <br/>
 Special Love towards LINUX 💝
 
 *   🌍  Current Location : India
