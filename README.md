@@ -44,7 +44,7 @@ Special Love towards LINUX 💝
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitz-prnv&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  <a
  href="http://www.github.com/nitz-prnv">
- <img src="https://activity-graph.herokuapp.com/graph?username=nitz-prnv&bg_color=171717&color=ffffff&line=ef4444&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/nitz-prnv" align="left">
+ <img src="https://activity-graph.herokuapp.com/graph?username=nitz-prnv&bg_color=171717&color=ffffff&line=ef4444&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
  
 <!--START_SECTION:waka-->
