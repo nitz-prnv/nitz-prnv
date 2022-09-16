@@ -46,3 +46,8 @@ Special Love towards LINUX 💝
  href="http://www.github.com/nitz-prnv">
  <img src="https://activity-graph.herokuapp.com/graph?username=nitz-prnv&bg_color=171717&color=ffffff&line=ef4444&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/nitz-prnv" align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitz-prnv&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
