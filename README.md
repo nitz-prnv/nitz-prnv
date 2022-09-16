@@ -4,7 +4,9 @@ Hi 👋 My name is Nithish Prannav
 Web Developer
 -------------
 
-An Explorer 😉 Learn to Do 🔁 Do to Learn Special Love towards LINUX 💝
+An Explorer 😉 
+Learn to Do 🔁 Do to Learn 
+Special Love towards LINUX 💝
 
 *   🌍  Current Location : India
 *   ✉️  You can contact me at [nitprnv@gmail.com](mailto:nitprnv@gmail.com)
