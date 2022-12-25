@@ -77,17 +77,16 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               29 mins             ████████████████████████░   96.46% 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-book-hub                 30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -104,6 +103,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2022 18:37:16 UTC
+ Last Updated on 25/12/2022 18:37:27 UTC
 <!--END_SECTION:waka-->
 
