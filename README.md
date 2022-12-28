@@ -48,7 +48,7 @@ Special Love towards LINUX 💝
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,16 +77,19 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   33 mins             ████████████████████████░   98.02% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Emusify                  33 mins             ████████████████████████░   99.1% 
+youtube-test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
@@ -103,6 +106,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2022 18:38:27 UTC
+ Last Updated on 28/12/2022 18:38:27 UTC
 <!--END_SECTION:waka-->
 
