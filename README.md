@@ -77,16 +77,16 @@ Sunday       36 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Emusify                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,6 +103,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 18:39:46 UTC
+ Last Updated on 07/01/2023 18:37:42 UTC
 <!--END_SECTION:waka-->
 
