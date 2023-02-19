@@ -48,7 +48,7 @@ Special Love towards LINUX 💝
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2057%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,16 +77,20 @@ Sunday          36 commits       █████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   28 mins             ████████████████████████░   96.60 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+face-recognition         15 mins             █████████████░░░░░░░░░░░░   52.76 % 
+Emusify                  14 mins             ███████████░░░░░░░░░░░░░░   47.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -103,6 +107,6 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 18:37:36 UTC
+ Last Updated on 19/02/2023 18:37:38 UTC
 <!--END_SECTION:waka-->
 
