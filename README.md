@@ -75,18 +75,16 @@ Sunday                   111 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 mins             ███████████████░░░░░░░░░░   60.54 % 
-Python                   8 mins              ██████████░░░░░░░░░░░░░░░   39.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             ███████████████░░░░░░░░░░   60.54 % 
-pandora_box              8 mins              ██████████░░░░░░░░░░░░░░░   39.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,6 +100,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2023 18:36:07 UTC
+ Last Updated on 01/04/2023 18:35:40 UTC
 <!--END_SECTION:waka-->
 
