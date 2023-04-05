@@ -48,7 +48,7 @@ Special Love towards LINUX 💝
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2056%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,16 +75,21 @@ Sunday                   111 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      18 mins             █████████████░░░░░░░░░░░░   50.22 % 
+Svelte                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+PowerShell               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stoopid-answers          31 mins             █████████████████████░░░░   84.87 % 
+Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,6 +105,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2023 18:35:47 UTC
+ Last Updated on 05/04/2023 18:39:38 UTC
 <!--END_SECTION:waka-->
 
