@@ -75,18 +75,16 @@ Sunday                   166 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     1 min               ████████████████████░░░░░   78.03 % 
-JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-anti-scroll              1 min               ████████████████████░░░░░   78.03 % 
-np-codes                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,6 +100,6 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2023 18:40:06 UTC
+ Last Updated on 27/06/2023 18:39:30 UTC
 <!--END_SECTION:waka-->
 
