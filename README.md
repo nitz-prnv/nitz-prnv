@@ -48,7 +48,7 @@ Special Love towards LINUX 💝
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2031%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,16 +75,17 @@ Sunday                   168 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr                ████████████████████████░   97.76 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mona-bot                 1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,6 +101,6 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2023 18:37:27 UTC
+ Last Updated on 02/07/2023 18:37:05 UTC
 <!--END_SECTION:waka-->
 
