@@ -29,6 +29,8 @@ An Explorer 😉<br>Learn to Do 🔁 Do to Learn<br>Special Love towards LINUX �
  
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2050%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -79,6 +81,6 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 18:40:34 UTC
+ Last Updated on 11/11/2024 18:42:45 UTC
 <!--END_SECTION:waka-->
 
