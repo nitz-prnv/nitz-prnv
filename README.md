@@ -29,45 +29,6 @@ An Explorer 😉<br>Learn to Do 🔁 Do to Learn<br>Special Love towards LINUX �
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2050%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-🌆 Daytime                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-🌃 Evening                316 commits         ███████████░░░░░░░░░░░░░░   43.11 % 
-🌙 Night                  132 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Tuesday                  118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Wednesday                62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Thursday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Friday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Saturday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Sunday                   172 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,6 +42,6 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 18:43:22 UTC
+ Last Updated on 01/12/2024 18:44:13 UTC
 <!--END_SECTION:waka-->
 
