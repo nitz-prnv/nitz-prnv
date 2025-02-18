@@ -18,14 +18,8 @@ An Explorer 😉<br>Learn to Do 🔁 Do to Learn<br>Special Love towards LINUX �
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nitz-prnv&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nitz-prnv&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
  
  
 <!--START_SECTION:waka-->
